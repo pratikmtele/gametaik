@@ -102,7 +102,7 @@ gametalk/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/gametalk.git
+git clone https://github.com/pratikmtele/gametaik.git
 cd gametalk
 ```
 
